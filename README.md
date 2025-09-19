@@ -2,7 +2,7 @@
 
 This project is a single-page application built with React that fetches user data from a public API and displays a list of user profiles. It was developed as the first part of a frontend developer screening assignment.
 
-### [View Live Demo](https://your-deployment-link-for-assignment-1.vercel.app)
+### [View Live Demo](https://simplyfi-assignment-1-g0a2882i5-alapatis-projects.vercel.app/)
 
 ---
 
